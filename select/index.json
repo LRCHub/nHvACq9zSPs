@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "tenk(e)i",
+  "base_artist": "パソコン音楽クラブ",
+  "createdAt": "2026-02-13T19:10:24.864348Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "tenk(e)i",
+      "artist": "パソコン音楽クラブ featuring 長谷川白紙",
+      "has_synced": false,
+      "path": "select/pl_01_tenk(e)i_パソコン音楽クラブ_featuring_長谷川白紙.txt"
+    }
+  ]
+}
